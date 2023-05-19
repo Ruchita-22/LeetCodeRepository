@@ -15,13 +15,11 @@ class Solution {
     
     private static boolean bfs(int s, int n, int[][] graph, int visited[]){
         Queue<Integer> q = new LinkedList<Integer>();
-       // System.out.println(s);
         q.add(s);
         visited[s] = 1;
         
         while(q.size()>0){
             int node = q.poll();
-            //System.out.println(node);
             int[] adj = graph[node];
             for(int i : adj){
                 if(visited[i]==0){

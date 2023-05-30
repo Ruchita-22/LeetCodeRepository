@@ -1,37 +1,23 @@
 class MyHashSet {
-    private int size;
-    private List<List<Integer>> buckets;
+    static ArrayList<Integer> set;
 
     public MyHashSet() {
-        size = 1000;
-        buckets = new ArrayList<>(size);
-        for (int i = 0; i < size; i++) {
-            buckets.add(new LinkedList<>());
-        }
+        set = new ArrayList<>();
+        
     }
-
+    
     public void add(int key) {
-        int index = hash(key);
-        List<Integer> bucket = buckets.get(index);
-        if (!bucket.contains(key)) {
-            bucket.add(key);
-        }
+        if(!set.contains(key))
+            set.add(key);
     }
-
+    
     public void remove(int key) {
-        int index = hash(key);
-        List<Integer> bucket = buckets.get(index);
-        bucket.remove(Integer.valueOf(key));
+        if(set.contains(key))
+            set.remove(set.indexOf(key));
     }
-
+    
     public boolean contains(int key) {
-        int index = hash(key);
-        List<Integer> bucket = buckets.get(index);
-        return bucket.contains(key);
-    }
-
-    private int hash(int key) {
-        return key % size;
+        return set.contains(key);
     }
 }
 

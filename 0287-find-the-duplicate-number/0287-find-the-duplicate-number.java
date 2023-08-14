@@ -4,20 +4,16 @@ class Solution {
         while(i<arr.length){
             int x = arr[i];
             if(x == i+1)   i++; 
-            else if(x != i+1){
-                if(arr[x-1]==x)  { 
-                    
-                    return x;
-                }
+            else{
+                if(arr[x-1]==x)   return x;
+                else if(x == arr[x])   return arr[i];
                 else{
-                    // swap
-                    if(x == arr[x])   return arr[i];
+                    // if(x == arr[x])   return arr[i];
                     
                     int a = x;
                     int b = arr[x];
                     arr[x] = a;
-                    arr[i] = b;
-                    
+                    arr[i] = b;    
                 }
             }
           

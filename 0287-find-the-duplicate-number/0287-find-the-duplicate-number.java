@@ -5,11 +5,8 @@ class Solution {
             int x = arr[i];
             if(x == i+1)   i++; 
             else{
-                if(arr[x-1]==x)   return x;
-                else if(x == arr[x])   return arr[i];
-                else{
-                    // if(x == arr[x])   return arr[i];
-                    
+                if(x == arr[x-1] || x == arr[x])   return x;
+                else{ 
                     int a = x;
                     int b = arr[x];
                     arr[x] = a;

@@ -31,11 +31,12 @@ class Solution {
 			if (x != null) {
 				
 				temp.add(x.val);	
+                if (x.left != null)     q.add(x.left);
 				if (x.right != null)    q.add(x.right);
-				if (x.left != null)     q.add(x.left);
+				
 			} 
             else {
-                list.add(temp.get(0));
+                list.add(temp.get(temp.size()-1));
                 temp = new ArrayList<>();
 				if(q.size()>0)  q.add(null);
 				

@@ -15,17 +15,33 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        ArrayList<Integer> list = new ArrayList<>();
-        preorder(root, list, 0);
-        return list;
-    }
-   private static void preorder(TreeNode root, List<Integer> list, int level){
-        if(root == null)    return;
+        //    Write your code here.
+        if(root == null)    return new ArrayList<Integer>(0);
+        List<Integer> list = new ArrayList<>();
+        ArrayList<Integer> temp = new ArrayList<>();
+		Queue<TreeNode> q = new LinkedList<>();
+        
+		q.add(root);
+		q.add(null);
+        
 
-        if(list.size() == level) list.add(root.val);
-        
-       preorder(root.right, list, level+1);
-        preorder(root.left, list, level+1);
-        
+	
+		while (q.size() > 0) {
+			TreeNode x = q.poll();
+			if (x != null) {
+				
+				temp.add(x.val);	
+				if (x.right != null)    q.add(x.right);
+				if (x.left != null)     q.add(x.left);
+			} 
+            else {
+                list.add(temp.get(0));
+                temp = new ArrayList<>();
+				if(q.size()>0)  q.add(null);
+				
+			}
+		}
+		return list;
+    
     }
 }

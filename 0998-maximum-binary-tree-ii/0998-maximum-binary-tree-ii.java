@@ -29,13 +29,12 @@ class Solution {
             } 
             
             TreeNode node = new TreeNode(val);
-            if(curr == null){
-                prev.right = node;
-            }
-            else{
+            
+            if(curr != null){
                 node.left = curr;
-                prev.right = node;
             }
+            
+             prev.right = node;  
             
             return root;
         }

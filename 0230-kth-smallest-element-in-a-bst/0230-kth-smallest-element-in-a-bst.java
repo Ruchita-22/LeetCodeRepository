@@ -18,7 +18,7 @@ class Solution {
     
     public int kthSmallest(TreeNode root, int k) {
         ans = -500;
-        i=0;
+        i = 0;
         inorder(root, k);
         return ans;
     }
@@ -29,10 +29,10 @@ class Solution {
         
         i++;
         if(i == k)  {
-            //System.out.println(root.val);
-            if(ans == -500)
+           
+           // if(ans == -500)
                 ans = root.val;
-            i++;
+            //i++;
             return;
         } 
         

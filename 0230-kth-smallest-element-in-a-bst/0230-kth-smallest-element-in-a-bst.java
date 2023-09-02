@@ -29,10 +29,7 @@ class Solution {
         
         i++;
         if(i == k)  {
-           
-           // if(ans == -500)
-                ans = root.val;
-            //i++;
+            ans = root.val;;
             return;
         } 
         

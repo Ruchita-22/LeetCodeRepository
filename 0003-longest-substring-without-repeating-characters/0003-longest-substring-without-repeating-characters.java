@@ -1,9 +1,9 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        if(s == null || s.length() == 0)    return 0;
+        //if(s == null || s.length() == 0)    return 0;
         HashSet<Character> set = new HashSet<>();
         
-        int i = 0, j = 0, len = 1;
+        int i = 0, j = 0, len = 0;
         
         while(j < s.length()){
             char cj = s.charAt(j);

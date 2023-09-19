@@ -6,26 +6,24 @@ class Solution {
             else 
                 arr[i] = 1;
         }
-        int c = countSubArrayWithSumK(arr,arr.length,k);
+        int c = countSubArrayWithSumK(arr,k);
         return c;
     }
     
-    private static int countSubArrayWithSumK(int arr[], int n, int k)
+    private static int countSubArrayWithSumK(int arr[], int k)
     {
-        HashMap<Integer, Integer> map = new HashMap<>();
+       HashMap<Integer, Integer> map = new HashMap<>();        // sum freq
         map.put(0,1);
-        int count = 0;
-        int sum = 0;
-        int j=0;
-        while (j < n) {
-            sum += arr[j];
-            int removeSum=sum-k;
-            if (map.containsKey(removeSum))
-            	count += map.get(removeSum);
-            map.put(sum,map.getOrDefault(sum,0)+1);
-            j++;
+        
+        int sum = 0, count = 0;
+        for(int e : arr){
+            sum += e;
+            int removeSum = sum - k;
+            if(map.containsKey(removeSum)){
+                count += map.get(removeSum);
+            }
+            map.put(sum, map.getOrDefault(sum,0)+1);
         }
- 
-        return count;
+        return count;  
     }
 }

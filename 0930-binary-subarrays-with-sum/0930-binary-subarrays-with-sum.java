@@ -1,23 +1,17 @@
 class Solution {
-    public int numSubarraysWithSum(int[] arr, int goal) {
-        return countSubArrayWithSumK(arr, goal);
-    }
-    private static int countSubArrayWithSumK(int arr[], int k)
-    {
-        HashMap<Integer, Integer> map = new HashMap<>();
+    public int numSubarraysWithSum(int[] arr, int k) {
+        HashMap<Integer, Integer> map = new HashMap<>();        // sum freq
         map.put(0,1);
-        int count = 0;
-        int sum = 0;
-        int j=0;
-        while (j < arr.length) {
-            sum += arr[j];
-            int removeSum=sum-k;
-            if (map.containsKey(removeSum))
-            	count += map.get(removeSum);
-            map.put(sum,map.getOrDefault(sum,0)+1);
-            j++;
+        
+        int sum = 0, count = 0;
+        for(int e : arr){
+            sum += e;
+            int removeSum = sum - k;
+            if(map.containsKey(removeSum)){
+                count += map.get(removeSum);
+            }
+            map.put(sum, map.getOrDefault(sum,0)+1);
         }
- 
-        return count;
+        return count;  
     }
 }

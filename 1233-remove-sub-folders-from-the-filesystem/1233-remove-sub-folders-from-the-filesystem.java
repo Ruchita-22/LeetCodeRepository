@@ -1,7 +1,7 @@
 class TrieNode{
-	    TrieNode children[] = new TrieNode[27];
-	    int isEnd = 0;
-	}
+	TrieNode children[] = new TrieNode[27];
+	int isEnd = 0;
+}
 class Solution {
     public List<String> removeSubfolders(String[] folder) {
         TrieNode root = new TrieNode();

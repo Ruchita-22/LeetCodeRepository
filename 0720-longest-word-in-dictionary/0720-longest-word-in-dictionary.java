@@ -1,6 +1,5 @@
 class TrieNode{
 	    TrieNode children[] =  new TrieNode[26];
-	    //int pf = 0;
 	    int isEnd = 0;
         String word = null;
 }
@@ -23,7 +22,6 @@ class Solution {
                 curr.children[ci - 'a'] = new TrieNode();
             }
             curr = curr.children[ci-'a'];
-            //curr.pf++;
         }
         curr.isEnd = 1;
         curr.word = s;

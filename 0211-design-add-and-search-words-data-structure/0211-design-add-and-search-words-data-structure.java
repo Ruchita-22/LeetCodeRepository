@@ -24,23 +24,23 @@ class WordDictionary {
     
     public boolean search(String s) {
         // TrieNode curr = root;
-        return helper(root, s);
+        return helper(root, s, 0);
              
        
     }
-    private static boolean helper (TrieNode root, String s){
+    private static boolean helper (TrieNode root, String s, int pos){
         if(root == null)    return false;
-        if(s.length() == 0) return root.isEnd == 1;
+        if(s.length() == pos) return root.isEnd == 1;
         
         boolean output = false;
         
-        if(s.charAt(0)  == '.') {
+        if(s.charAt(pos)  == '.') {
             for(int  i = 0; i < 26; i++){
-                output = output || helper(root.children[i],  s.substring(1));
+                output = output || helper(root.children[i],  s, pos+1);
             }
         }
         else{
-            output = helper(root.children[s.charAt(0) - 'a'], s.substring(1));
+            output = helper(root.children[s.charAt(pos) - 'a'], s, pos+1);
         }
         return output;
     }

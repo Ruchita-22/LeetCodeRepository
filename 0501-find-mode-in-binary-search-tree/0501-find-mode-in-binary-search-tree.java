@@ -14,6 +14,53 @@
  * }
  */
 class Solution {
+    //Approach 2
+    static int curr = 0, currf = 0, maxf = 0;
+    static List<Integer> list = null;
+    public int[] findMode(TreeNode root) {
+        curr = Integer.MIN_VALUE; currf = 0; maxf = 0;
+        list = new ArrayList();
+        
+        preorder(root);
+        
+        return list.stream().mapToInt(x -> x).toArray();   
+        
+    }
+    public void preorder(TreeNode root) {
+        if(root == null) return;
+        
+        preorder(root.left);
+        
+        if(root.val == curr) {
+            currf++;
+            if(maxf < currf) {
+                maxf = currf;
+                list = new ArrayList(List.of(curr));
+            } else if (maxf == currf) {
+                list.add(curr);
+            } 
+            else {
+                // do nothing
+            }
+        } else {
+            curr = root.val;
+            currf = 1;
+            if(maxf < currf) {
+                maxf = currf;
+                list = new ArrayList(List.of(root.val));
+            } else if (maxf == currf) {
+                list.add(curr);
+            } else {
+                // do nothing
+            }
+        }
+        
+       
+        preorder(root.right);
+    }
+    
+    // Approach 1
+    /*
     static HashMap<Integer,Integer> map;
     static int maxf = 0;
     
@@ -40,5 +87,5 @@ class Solution {
         preorder(root.left);
         preorder(root.right);
     }
-    
+    */
 }

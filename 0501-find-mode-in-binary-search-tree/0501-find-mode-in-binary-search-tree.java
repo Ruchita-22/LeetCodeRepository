@@ -21,23 +21,23 @@ class Solution {
         curr = Integer.MIN_VALUE; currf = 0; maxf = 0;
         list = new ArrayList();
         
-        preorder(root);
+        inorder(root);
         
         return list.stream().mapToInt(x -> x).toArray();   
         
     }
-    public void preorder(TreeNode root) {
+    public void inorder(TreeNode root) {
         if(root == null) return;
         
-        preorder(root.left);
+        inorder(root.left);
         
         if(root.val == curr) {
             currf++;
             if(maxf < currf) {
                 maxf = currf;
-                list = new ArrayList(List.of(curr));
+                list = new ArrayList(List.of(root.val));
             } else if (maxf == currf) {
-                list.add(curr);
+                list.add(root.val);
             } 
             else {
                 // do nothing
@@ -49,15 +49,16 @@ class Solution {
                 maxf = currf;
                 list = new ArrayList(List.of(root.val));
             } else if (maxf == currf) {
-                list.add(curr);
+                list.add(root.val);
             } else {
                 // do nothing
             }
         }
         
        
-        preorder(root.right);
+        inorder(root.right);
     }
+    // Here preorder traversal wont work as we need to compare the value from root.
     
     // Approach 1
     /*

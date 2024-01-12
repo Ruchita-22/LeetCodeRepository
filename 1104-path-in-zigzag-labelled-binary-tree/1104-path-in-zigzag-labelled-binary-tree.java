@@ -4,8 +4,8 @@ class Solution {
         
         ans.add(n);
         while(n > 1) {
-            int l = (int) (Math.log(n)/Math.log(2));
-            double llv = (int) Math.pow(2, l);
+            int level = (int) (Math.log(n)/Math.log(2));
+            double llv = (int) Math.pow(2, level);
             int parent = (int)((3 * llv - n-1)/2);
             ans.add(0,parent);
             n = parent;
@@ -13,4 +13,4 @@ class Solution {
         return ans;
     }
 }
-
+/* in normal case parent(n) = n/2*/

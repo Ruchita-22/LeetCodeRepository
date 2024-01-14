@@ -10,34 +10,30 @@
  */
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
-        int len=0;
-        ListNode p = head;
-
-        while(p!=null){
+        int len = 0;
+        ListNode curr = head;
+        
+        while(curr != null) {
             len++;
-            p=p.next;
+            curr = curr.next;
         }
-
-        //edge case
-        if(k>len || len==1)   return head;
-
-        // set pointer
-        ListNode p1=head, p2=head;
-        p=head;
-        int l=0;
-        while(l <= Math.max(k,(len-k+1)) && p!=null){
-            l++;
-            if(l==k)    p1=p;
-            if(l==(len-k+1))   p2=p;
-            p=p.next;
-        }
-
-        //swap value
-        int t = p1.val;
-        p1.val = p2.val;
-        p2.val = t;
-
+        int startIndex = k, endIndex = len-k+1;
+        ListNode first = null, second = null;
+        curr = head;
+        int idx = 1;
+         while(curr != null && (first == null || second == null)) {
+             if(idx == startIndex) {
+                 first = curr;
+             } 
+             if(idx == endIndex) {
+                 second = curr;
+             }
+             idx++;
+             curr = curr.next;
+         }
+        int temp = first.val;
+        first.val = second.val;
+        second.val = temp;
         return head;
-
     }
 }

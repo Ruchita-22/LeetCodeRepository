@@ -20,8 +20,10 @@ class Solution {
             tail = curr;
             curr = curr.next;
         }
+        
         if(len <= k) k = k % len;
         if(k == 0)  return head;
+        
         int startIndex = len-k+1;
         int idx = 1;
         curr = head;

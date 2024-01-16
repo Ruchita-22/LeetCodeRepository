@@ -4,16 +4,14 @@ class Solution {
         for(int i = 0; i < 32; i++){
             int sum = 0;
             for(int j = 0; j < arr.length; j++){
-                if( checkBit(arr[j],i) )
+                if(((arr[j]>>i) & 1) == 1)
                     sum++;
             }
             sum = sum % 3;
             if(sum != 0)
-                ans = ans | sum << i; 
+                ans |= sum << i; 
         }
         return ans;
     }
-    private static boolean checkBit(int n, int i){
-        return ((n>>i) & 1) == 1 ? true : false;
-    }
+    
 }

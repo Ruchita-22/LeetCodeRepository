@@ -1,24 +1,17 @@
 class Solution {
     public int[] countBits(int n) {
         int res[] = new int[n+1];
-        for(int i = 0; i <= n; i++){
-            res[i] = countBit(i);
+        
+        for(int i = 0; i <= n; i++) {
+            res[i] = countSetBit(i);
         }
         return res;
-        
     }
-    private static int countBit(int n){
+    public int countSetBit(int n) {
         int count = 0;
-        for(int i = 0; i < 32; i++){
-             if(checkBit(i, n)){
-                 count++;
-             }
+        for(int i = 0; i < 32; i++) {
+            if(((n>>i) & 1) == 1) count++;
         }
         return count;
-    }
-    private static boolean checkBit(int i, int n){
-        if(((n>>i) & 1) == 1) return true;
-        return false;
-        
     }
 }

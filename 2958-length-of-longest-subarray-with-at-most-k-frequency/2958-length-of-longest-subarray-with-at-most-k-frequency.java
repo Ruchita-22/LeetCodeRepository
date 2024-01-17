@@ -12,11 +12,9 @@ class Solution {
                 j++;
             } else {
                 if(map.get(arr[j]) < k) {
-                    //System.out.println("enter if");
                     map.put(arr[j],map.get(arr[j])+1);
                     j++;
                 } else {
-                     //System.out.println("enter else");
                     maxLen = Math.max(maxLen, j-i);
                     
                     while(map.containsKey(arr[j]) && map.get(arr[j]) >= k) {
@@ -26,7 +24,6 @@ class Solution {
                     }
                 }   
             }
-            //System.out.println(i+" "+ j+ " "+ map+ " "+ maxLen);
         }
         maxLen = Math.max(maxLen, j-i);
         return maxLen;

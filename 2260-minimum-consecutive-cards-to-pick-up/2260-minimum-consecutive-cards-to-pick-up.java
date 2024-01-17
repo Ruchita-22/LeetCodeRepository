@@ -11,7 +11,7 @@ class Solution {
                 set.add(cards[j]); 
                 j++;
             } else {
-                ws = Math.min(ws, j-i+1);
+               // ws = Math.min(ws, j-i+1);
                 while(set.contains(cards[j])) {
                     set.remove(cards[i]); 
                     i++;
@@ -20,7 +20,6 @@ class Solution {
             }
             
         }
-        // ws = Math.min(ws, set.size()+1);
          return set.size() == cards.length ? -1 : ws;             
     }
 }

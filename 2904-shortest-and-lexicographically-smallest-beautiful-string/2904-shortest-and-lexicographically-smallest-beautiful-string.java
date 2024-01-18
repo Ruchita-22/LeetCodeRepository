@@ -6,15 +6,8 @@ class Solution {
         while(j < s.length()) {
             char cj = s.charAt(j);
             if(cj == '1') freq++;
+            
             if(freq == k) {
-//                 if(len > j-i+1) {
-//                     len = j-i+1;
-//                     res = s.substring(i,j+1);
-//                 } else if(len == j-i+1) {
-//                     // check lexog smaller
-//                 } else {
-                    
-//                 }
                 while(freq == k) {
                     if(len > j-i+1) {
                         len = j-i+1;

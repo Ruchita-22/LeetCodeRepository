@@ -1,21 +1,5 @@
 class Solution {
-//     public int[] nextGreaterElements(int[] arr) {
-//         int arr1[] = new int[2*arr.length];
-        
-//         for(int i = 0; i < arr.length; i++) {
-//            arr1[i] = arr[i];
-//            arr1[arr.length+i] = arr[i]; 
-//         }  
-//         int ngr[] = ngr(arr1);
-//         //print(ngr);
-//         int res[] = new int[arr.length];
-//          for(int i = 0; i < arr.length; i++) {
-//            res[i] = ngr[i];
-//         }  
-//         return res;
-        
-
-//     }
+    //approach 2
      public int[] nextGreaterElements(int[] arr) {
          
          Stack<Integer> stack = new Stack();
@@ -36,7 +20,25 @@ class Solution {
         
 
     }
+    // approach 1
+    /*
+    public int[] nextGreaterElements(int[] arr) {
+        int arr1[] = new int[2*arr.length];
+        
+        for(int i = 0; i < arr.length; i++) {
+           arr1[i] = arr[i];
+           arr1[arr.length+i] = arr[i]; 
+        }  
+        int ngr[] = ngr(arr1);
+        //print(ngr);
+        int res[] = new int[arr.length];
+         for(int i = 0; i < arr.length; i++) {
+           res[i] = ngr[i];
+        }  
+        return res;
+        
 
+    }
     public int[] ngr(int arr[]) {
         int res[] = new int[arr.length];
         Stack<Integer> stack = new Stack();
@@ -48,6 +50,7 @@ class Solution {
         }
         return res;
     }
+    */
     public void print(int arr[]) {
         for(int e : arr) {
             System.out.print(e+" ");

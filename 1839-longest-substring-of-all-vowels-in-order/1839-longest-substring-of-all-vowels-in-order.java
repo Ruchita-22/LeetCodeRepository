@@ -13,18 +13,16 @@ class Solution {
                 j++;
                 currentVowel++;
             } else { // pattern stopped
-                if(currentVowel==4)
-                {
-                    ans=Math.max(ans,j-i);
-                }
-                currentVowel=0;
-                i=j;
-                if(word.charAt(j)==vowels[currentVowel])
-                {
+                if(currentVowel==4)     ans=Math.max(ans,j-i);
+                
+                currentVowel = 0;
+                i = j;
+                if(word.charAt(j) != vowels[currentVowel])
+                {   i++;
                     j++;
-                } else {
-                    i++; j++;
-                }
+                } //else {
+                //     i++; j++;
+                // }
             }
         }
         if(currentVowel==4)

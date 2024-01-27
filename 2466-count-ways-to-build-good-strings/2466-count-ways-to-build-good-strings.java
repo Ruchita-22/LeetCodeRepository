@@ -2,17 +2,12 @@
 class Solution {
     long count;
     int mod = 1000000000+7;
-    public int countGoodStrings(int low, int high, int zero, int one) {
+    public int countGoodStrings(int low, int high, int zero, int one) {        
+        count = 0;
         
-        StringBuilder s0 = new StringBuilder();
-        StringBuilder s1 = new StringBuilder();
-        for(int i = 0; i < zero; i++) s0.append(0);
-        for(int i = 0; i < one; i++) s1.append(1);
-        
-        count = 0 ;
         long dp[] = new long[high+1];
         Arrays.fill(dp,-1);
-        //return solve("", low, high, new String(s0), new String(s1));
+        
         return (int) solve(0, low, high, zero, one, dp);
         
     }
@@ -31,6 +26,19 @@ class Solution {
     }
     // approach 1
     /*
+      public int countGoodStrings(int low, int high, int zero, int one) {
+        
+        StringBuilder s0 = new StringBuilder();
+        StringBuilder s1 = new StringBuilder();
+        for(int i = 0; i < zero; i++) s0.append(0);
+        for(int i = 0; i < one; i++) s1.append(1);
+        
+        count = 0 ;
+       
+        return solve("", low, high, new String(s0), new String(s1));
+        
+        
+    }
     public int solve(String s, int low, int high, String s0, String s1) {
         if(s.length() > high) return 0;
         if(s.length() == high)  return 1;

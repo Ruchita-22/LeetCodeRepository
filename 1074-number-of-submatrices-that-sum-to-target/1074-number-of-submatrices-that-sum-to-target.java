@@ -1,41 +1,33 @@
 class Solution {
     public int numSubmatrixSumTarget(int[][] mat, int target) {
-        int n = mat.length;
-        int m = mat[0].length;
-        long res[][] = pfConstruct1(mat);
+        int m = mat.length, n = mat[0].length;
+        
+        // construct pf
+        int pf[][] = new int[m][n];
+        for(int i = 0; i < m ; i++) {
+            for(int j = 0 ; j < n; j++) {
+                pf[i][j] = j == 0 ? mat[i][j] : pf[i][j-1] + mat[i][j];
+            }
+        }
+        for(int i = 1; i < m ; i++) {
+            for(int j = 0 ; j < n; j++) {
+                pf[i][j] = pf[i-1][j] + pf[i][j];
+            }
+        }
         int count = 0;
-        for (int i1 = 0; i1 < n; i1++) {
-			for (int j1 = 0; j1 < m; j1++) {
-				for (int i2 = i1; i2 < n; i2++) {
-					for (int j2 = j1; j2 < m; j2++) {
-                        
-                        long sum = res[i2][j2];
-                        if(i1>0)    sum -= res[i1-1][j2];
-                        if(j1>0)    sum -= res[i2][j1-1];
-                        if(i1>0 && j1>0)    sum += res[i1-1][j1-1];
-                        
-                        if(sum == target)   count++;
-                    }   
-                }
+        for(int a1 = 0; a1 < m ; a1++) {
+            for(int b1 = 0 ; b1 < n; b1++) {
+                for(int a2 = a1; a2 < m ; a2++) {
+                    for(int b2 = b1 ; b2 < n; b2++) {
+                        int sum = pf[a2][b2];
+                        if(a1 > 0)  sum -= pf[a1-1][b2];
+                        if(b1 > 0)  sum -= pf[a2][b1-1];
+                        if(a1 > 0 && b1 > 0)  sum += pf[a1-1][b1-1];
+                        if(sum == target) count++;
+                    }
+                }    
             }
         }
         return count;
-    }
-    private static long[][] pfConstruct1(int mat[][]){
-        int n = mat.length;
-        int m = mat[0].length;
-        long res[][] = new long[n][m];
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                res[i][j] = j==0 ? mat[i][j] : res[i][j-1]+mat[i][j]; 
-            }
-        }
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                res[i][j] = i==0 ? res[i][j] : res[i-1][j]+res[i][j]; 
-            }
-        }
-        return res;
     }
 }

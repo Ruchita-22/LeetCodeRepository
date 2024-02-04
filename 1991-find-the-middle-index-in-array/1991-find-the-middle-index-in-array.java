@@ -8,13 +8,14 @@ class Solution {
         }
         for(int i = 0; i < arr.length; i++) {
             int pfLeft = 0, pfRight = 0;
+            int n = arr.length;
             if(i == 0) {
-                pfRight = pf[arr.length-1] - pf[i];
-            } else if(i == arr.length - 1) {
-                pfLeft = pf[arr.length - 2];
+                pfRight = pf[n-1] - pf[i];
+            } else if(i == n-1) {
+                pfLeft = pf[n-2];
             } else {
                 pfLeft = pf[i - 1];
-                pfRight = pf[arr.length-1] - pf[i];
+                pfRight = pf[n-1] - pf[i];
             }
             
             if(pfLeft == pfRight)   return i;

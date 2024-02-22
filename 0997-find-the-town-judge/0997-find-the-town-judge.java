@@ -1,6 +1,6 @@
 class Solution {
     public int findJudge(int n, int[][] trust) {
-        if(n== 1 && (trust == null || trust.length == 0))    return 1;
+        if(n == 1)    return 1;
         Set<Integer> personWhoTrustSomeone = new HashSet<>();
         Map<Integer, Integer> trustfreq = new HashMap<>();
         

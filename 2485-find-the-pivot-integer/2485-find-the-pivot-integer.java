@@ -1,6 +1,20 @@
 class Solution {
     
     public int pivotInteger(int n) {
+        
+        // approach 1
+        if(n == 1)  return 1;
+        long sumL = 0, sumR = 0;
+        
+        sumR = n*(n+1)/2;
+        
+        for(int i = 1; i <= n; i++) {
+            sumL += i;
+            if(sumL == sumR-sumL+i)    return i;
+        }
+        return -1;
+        
+        /*
         long pfL[] = new long[n+1];
         pfL[1] = 1;
         for(int i = 2; i < n+1; i++){
@@ -18,6 +32,7 @@ class Solution {
             
         }
         return -1;
+        */
         
         
         

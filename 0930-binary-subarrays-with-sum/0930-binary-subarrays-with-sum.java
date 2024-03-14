@@ -1,6 +1,6 @@
 class Solution {
     public int numSubarraysWithSum(int[] arr, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>();        // sum freq
+         HashMap<Integer, Integer> map = new HashMap<>();        // sum freq
         map.put(0,1);
         
         int sum = 0, count = 0;

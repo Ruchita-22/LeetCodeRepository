@@ -1,7 +1,19 @@
 class Solution {
     
     public int pivotInteger(int n) {
+        /*
+        sum(1-x) = sum(x-n)
+        x*(x+1)/2 = n(n+1)/2 - x(x+1)/2 + x
+        x = sqrt(n*(n+1)/2)
         
+        */
+        double a = n*(n+1)/2;
+        a = Math.sqrt(a);
+        //System.out.println(a % 1 == 0.0);
+        
+        if(a - Math.ceil(a) == 0)  return (int) a;
+        else return -1;
+        /*
         // approach 1
         if(n == 1)  return 1;
         long sumL = 0, sumR = 0;
@@ -13,8 +25,10 @@ class Solution {
             if(sumL == sumR-sumL+i)    return i;
         }
         return -1;
+        */
+   
         
-        /*
+        /* // prefix sum
         long pfL[] = new long[n+1];
         pfL[1] = 1;
         for(int i = 2; i < n+1; i++){

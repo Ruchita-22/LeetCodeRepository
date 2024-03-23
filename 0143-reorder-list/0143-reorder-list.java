@@ -9,58 +9,68 @@
  * }
  */
 class Solution {
-    public void reorderList(ListNode head) {
-        if(head==null || head.next == null) return;
-        ListNode mid = findMid(head);
-        //System.out.println(mid.val);
-        ListNode l2 = mid.next;
-        mid.next = null;    
+    public void reorderList(ListNode head1) {
+        if(head1 == null || head1.next == null)   return;
         
-        l2 = reverseList(l2);
-        //System.out.println(l2.val);
-        ListNode l1 = head, nl1 = null, nl2 = null, p = head;
+        ListNode f = head1, s = head1, prev = null;
         
-        while(l1 != null && l2 != null){
-            
-            nl1 = l1.next;
-            nl2 = l2.next;
-            
-            p.next = l2;
-            if(p.next!=null) p = p.next;
-            
-            p.next = nl1;
-            if(p.next!=null)  p = p.next;
-            
-            l1 = nl1;
-            l2 = nl2;
-        }
-        if(l1!=null)    p.next = l1;
-        if(l2!=null)    p.next = l2;
-    }
-    private static ListNode reverseList(ListNode head){
-        if(head == null || head.next == null)   return head;
-        
-        ListNode p = head, np = null, prev = null;
-        
-        while(p != null){
-            np = p.next;
-            p.next = prev;
-            prev = p;
-            p = np;
-        }
-        return prev;
-    }
-    private static ListNode findMid(ListNode head){
-        if(head == null || head.next == null)   return head;
-        
-        ListNode prev = null;
-        
-        ListNode f = head, s = head;
-        while(f != null && f.next != null ){
+        while(f != null && f.next != null){
             prev = s;
             s = s.next;
             f = f.next.next;
         }
-        return prev;
+        //System.out.println(prev.val);
+        //now reverse the LL
+        ListNode head2 = s;
+        prev.next = null;
+        
+        head2 = reverse(head2);
+        // print(head1);
+        // print(head2);
+        
+        head1 = merge(head1, head2); 
     }
+    private static ListNode reverse(ListNode head) {
+        ListNode curr = head, np = null, prev = null;
+        
+        while(curr != null) {
+            np = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = np;
+        }
+        return prev;
+        
+    }
+    private static ListNode merge(ListNode head1, ListNode head2) {
+        ListNode p1 = head1, p2 = head2, np1 = null, np2 = null, p = head1;
+        
+        while(p1 != null && p2 != null) {
+            np1 = p1.next;
+            np2 = p2.next;
+            p.next = p2;
+            
+            if(p.next != null) p = p.next;
+            p.next = np1;
+            if(p.next != null) p = p.next;
+            
+            p1 = np1;
+            p2 = np2;
+        }
+        if(p1 != null)    p.next = p1;
+        if(p2 !=null)    p.next = p2;
+       
+        
+        return head1;
+        
+    }
+    private static void print(ListNode head) {
+        ListNode curr = head;
+        while(curr != null) {
+            System.out.print(curr.val+"->");
+            curr = curr.next;
+        }
+         System.out.println();
+    }
+    
 }

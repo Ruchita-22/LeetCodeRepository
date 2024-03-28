@@ -7,22 +7,17 @@ class Solution {
         int i = 0, j = 0;
         while(j < arr.length) {
             
-            if(!map.containsKey(arr[j])) {
+            if(!map.containsKey(arr[j]) || map.get(arr[j]) < k) {
                 map.put(arr[j], map.getOrDefault(arr[j],0)+1);
                 j++;
             } else {
-                if(map.get(arr[j]) < k) {
-                    map.put(arr[j],map.get(arr[j])+1);
-                    j++;
-                } else {
-                    maxLen = Math.max(maxLen, j-i);
+                maxLen = Math.max(maxLen, j-i);
                     
-                    while(map.containsKey(arr[j]) && map.get(arr[j]) >= k) {
-                        map.put(arr[i], map.get(arr[i])-1);
-                        if(map.get(arr[i]) == 0) map.remove(arr[i]);
-                        i++;
-                    }
-                }   
+                while(map.containsKey(arr[j]) && map.get(arr[j]) >= k) {
+                    map.put(arr[i], map.get(arr[i])-1);
+                    if(map.get(arr[i]) == 0) map.remove(arr[i]);
+                    i++;
+                }  
             }
         }
         maxLen = Math.max(maxLen, j-i);

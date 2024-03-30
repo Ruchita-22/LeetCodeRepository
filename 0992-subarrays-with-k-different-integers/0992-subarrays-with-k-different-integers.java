@@ -1,7 +1,8 @@
 class Solution {
     public int atMostK(int[]nums,int k)
-    {   //System.out.println(k);
+    {   
         if(k == 0)  return 0;
+        
         HashMap<Integer,Integer> freq=new HashMap<>();
         int j=0; // ending point
         int n=nums.length;
@@ -16,7 +17,7 @@ class Solution {
             {   
                 if(freq.size() == k && freq.containsKey(nums[j]) == false)
                 {
-                    //j--;
+                    
                     break;
                 }
                 else
@@ -26,7 +27,7 @@ class Solution {
                 }
             
             }
-            //System.out.println(i + " "+ j+ " "+ freq);
+           
             
             
             ans += j-i;

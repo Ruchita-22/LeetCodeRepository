@@ -1,18 +1,18 @@
 class Solution {
     public int[] topKFrequent(int[] arr, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>();
         
-        for(int e : arr) {
-            map.put(e, map.getOrDefault(e,0)+1);
-        }
+        Map<Integer, Long> map = Arrays
+            .stream(arr)
+            .boxed()
+            .collect(Collectors.groupingBy(x -> x, Collectors.counting()));
         
-        PriorityQueue<Integer> pq = new PriorityQueue<Integer>(k, (o1,o2) -> map.get(o1) - map.get(o2));
-        
-        for(int e  : map.keySet()){
-            pq.add(e);
-            if(pq.size()>k) 
-                pq.poll();
-        }
-        return pq.stream().mapToInt(Integer :: intValue).toArray();
+        List<Integer> list =  map.entrySet()
+                .stream()
+                .sorted(Map.Entry.<Integer, Long>comparingByValue().reversed())
+                .limit(k)
+                .map(Map.Entry :: getKey)
+                .collect(Collectors.toList());
+        return list.stream().mapToInt(x->x).toArray();
+
     }
 }

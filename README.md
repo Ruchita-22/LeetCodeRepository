@@ -29,6 +29,7 @@
 | [0398-random-pick-index](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0398-random-pick-index) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
@@ -62,4 +63,17 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->

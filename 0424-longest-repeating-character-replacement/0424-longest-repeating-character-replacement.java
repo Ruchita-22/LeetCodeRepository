@@ -1,3 +1,4 @@
+
 class Solution {
     public int characterReplacement(String s, int k) {
         
@@ -6,10 +7,12 @@ class Solution {
         int largestCount = 0, i = 0, maxlen = 0;
         
         for(int j = 0; j < s.length(); j ++){
-            arr[s.charAt(j) - 'A']++;
-            largestCount = Math.max(largestCount, arr[s.charAt(j) - 'A']);
+			char ci = s.charAt(i);
+			char cj = s.charAt(j);
+            arr[cj - 'A']++;
+            largestCount = Math.max(largestCount, arr[cj - 'A']);
             if(j - i + 1 - largestCount > k){     
-                arr[s.charAt(i) - 'A']--;
+                arr[ci - 'A']--;
                 i ++;
             }
             maxlen = Math.max(maxlen, j - i + 1);     

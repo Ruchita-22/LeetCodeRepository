@@ -1,8 +1,12 @@
 class Solution {
     public int minSubArrayLen(int target, int[] arr) {
+
         int i = 0, j = 0, currSum = 0, len  = Integer.MAX_VALUE;
+
         while (j < arr.length) {
+
             currSum += arr[j];
+            
             if(currSum < target) {
                 j++;
             } else {
@@ -17,9 +21,9 @@ class Solution {
                 j++;
             }
         }
-        if(currSum >= target) {
-            len = Math.min(len, j-i+1);
-        }
+        // if(currSum >= target) {
+        //     len = Math.min(len, j-i+1);
+        // }
         return len == Integer.MAX_VALUE ? 0 : len;
         
     }

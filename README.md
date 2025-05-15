@@ -52,6 +52,7 @@
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
@@ -90,9 +92,11 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

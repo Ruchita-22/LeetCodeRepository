@@ -24,6 +24,7 @@
 | [0050-powx-n](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0326-power-of-three) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
@@ -86,6 +87,7 @@
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->

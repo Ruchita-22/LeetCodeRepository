@@ -10,11 +10,11 @@ class Solution {
     public char solve(int n, int k) {
         if(n == 0)  return 'a';
         
-        int half = 1 << (n-1);
-        if(k <= Math.pow(2, n-1) )
+        int mid = 1 << (n-1);
+        if(k <= mid)
             return solve(n-1,k);
         else {
-            char ch =  solve(n-1,k-half);
+            char ch =  solve(n-1,k-mid);
             return (char) (((ch-'a' + 1)%26)+'a');
         }    
         

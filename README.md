@@ -24,6 +24,7 @@
 | [0050-powx-n](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0326-power-of-three) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0326-power-of-three](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0326-power-of-three) |
 | [0382-linked-list-random-node](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0398-random-pick-index) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -103,4 +106,12 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->

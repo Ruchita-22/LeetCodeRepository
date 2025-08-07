@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0326-power-of-three) |
 ## Hash Table
@@ -38,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0326-power-of-three) |
 | [0382-linked-list-random-node](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0398-random-pick-index) |

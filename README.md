@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0047-permutations-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
@@ -126,4 +127,9 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

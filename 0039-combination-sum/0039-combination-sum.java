@@ -14,16 +14,12 @@ class Solution {
         if(pos == arr.length || currSum > targetSum) {
             return;
         }
-        // take
-        currSum = currSum + arr[pos];
-        list.add(arr[pos]);
-        solve(arr, pos, currSum, targetSum,list);
-
         //not take
-        currSum = currSum - arr[pos];
-        list.remove(list.size()-1);
         solve(arr, pos+1,currSum, targetSum,list);
 
-
+        // take
+        list.add(arr[pos]);
+        solve(arr, pos, currSum + arr[pos] , targetSum,list);
+        list.remove(list.size()-1);
     }
 }

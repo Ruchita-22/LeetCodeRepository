@@ -72,6 +72,7 @@
 | [0046-permutations](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0047-permutations-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
+| [0377-combination-sum-iv](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0474-ones-and-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0747-min-cost-climbing-stairs) |
@@ -156,6 +157,7 @@
 | [0070-climbing-stairs](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0091-decode-ways) |
 | [0279-perfect-squares](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0279-perfect-squares) |
+| [0377-combination-sum-iv](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0474-ones-and-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization

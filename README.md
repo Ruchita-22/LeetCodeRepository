@@ -76,6 +76,7 @@
 | [0377-combination-sum-iv](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0474-ones-and-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0643-maximum-average-subarray-i) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0747-min-cost-climbing-stairs) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -162,6 +163,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0474-ones-and-zeroes) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization
 |  |
@@ -175,4 +177,12 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1448-maximum-69-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

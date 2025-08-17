@@ -1,19 +1,20 @@
 class Solution {
-    public int lengthOfLIS(int[] arr) {
-        int n = arr.length;
-		int dp[][] = new int[n+1][n+1];
+    public int lengthOfLIS(int[] nums) {
+        int dp[][] = new int[nums.length+1][nums.length+1];
         for(int t[] : dp)   Arrays.fill(t, -1);
-		return solve(0, -1, arr, dp) ;	
+        return solve(nums,nums.length, 0, -1, dp);
     }
-    
-    private static int solve(int i, int prev_i, int arr[], int dp[][]) {
-		if(i == arr.length)	return 0;
-		if(dp[i][prev_i+1] != -1)	return dp[i][prev_i+1];
-		
-		int len = 0 + solve(i+1, prev_i, arr, dp);
-		if(prev_i == -1 || arr[i] > arr[prev_i]) {
-			len = Math.max(len, 1 + solve(i+1, i, arr, dp));
-		}
-		return dp[i][prev_i+1] = len;
-	}
+    private int solve(int arr[], int n, int curr, int prev, int dp[][]) {
+        if(curr == n)   return 0;
+        if(prev != -1 && dp[curr][prev] != -1)    return dp[curr][prev];
+        int take = 0;
+        if(prev == -1 || arr[curr] > arr[prev]) {
+            take = 1 + solve(arr, n, curr+1, curr, dp);
+        } 
+        int notTake = 0 + solve(arr, n, curr+1, prev, dp);
+        int ans = Math.max(take, notTake);
+        if(prev != -1)  
+            dp[curr][prev] = ans;
+        return ans;    
+    }
 }

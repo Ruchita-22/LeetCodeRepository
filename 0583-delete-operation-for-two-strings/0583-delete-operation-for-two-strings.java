@@ -1,32 +1,22 @@
 class Solution {
     public int minDistance(String word1, String word2) {
-	    int n = word1.length();
-	    int m = word2.length();
-	    // int dp[][] = new int[n+1][m+1];
-	    // for(int t[] : dp)   Arrays.fill(t,-1);
-	    int l =  solve(n, m, word1, word2);
-        return m + n - 2*l;
+        int dp[][] = new int[word1.length()+1][word2.length()+1];
+        for(int t[] : dp)   Arrays.fill(t,-1);
+
+        int lcs =  solve(word1, word2, word1.length(), word2.length(), dp);
+        return word1.length() + word2.length() - (2*lcs);
         
     }
-    private static int solve(int n, int m, String x, String y){
-        int dp[][] = new int[n+1][m+1];
-        for(int t[] : dp)   Arrays.fill(t,-1);
-        
-        for(int i = 0; i <= n; i++) {
-            for(int j = 0; j <= m; j++) {
-                if(i == 0 || j == 0)  dp[i][j] = 0;
-            }
+    private int solve(String str1, String str2, int m, int n, int dp[][]) {
+        if(m == 0 || n == 0)    return 0;
+        if( dp[m][n] != -1) return dp[m][n];
+        if(str1.charAt(m-1) == str2.charAt(n-1)) {
+            return dp[m][n] = 1 + solve(str1, str2, m-1, n-1, dp);
+        } else {
+            return  dp[m][n] = Math.max(
+                solve(str1, str2, m-1, n, dp),
+                solve(str1, str2, m, n-1, dp)
+            );
         }
-        
-        for(int i = 1; i <= n; i++) {
-            for(int j = 1; j <= m; j++) {
-                if(x.charAt(i-1) == y.charAt(j-1))
-                     dp[i][j]  = 1 + dp[i-1][j-1] ;
-                else 
-                     dp[i][j] = Math.max(dp[i-1][j], dp[i][j-1]);
-            }
-        }
-        return dp[n][m];
-        
     }
 }

@@ -107,6 +107,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
+| [1250-longest-common-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1250-longest-common-subsequence) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -171,6 +172,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0867-new-21-game) |
+| [1250-longest-common-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |

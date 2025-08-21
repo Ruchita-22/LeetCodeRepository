@@ -76,6 +76,7 @@
 | [0046-permutations](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0064-minimum-path-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0377-combination-sum-iv) |
@@ -177,6 +178,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0091-decode-ways) |
 | [0279-perfect-squares](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0279-perfect-squares) |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0064-minimum-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Combinatorics
 |  |

@@ -94,6 +94,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2714-left-and-right-sum-differences](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2714-left-and-right-sum-differences) |
 | [3330-modify-the-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3330-modify-the-matrix) |
 ## Sliding Window
 |  |
@@ -153,6 +154,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
+| [2714-left-and-right-sum-differences](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2714-left-and-right-sum-differences) |
 ## Queue
 |  |
 | ------- |

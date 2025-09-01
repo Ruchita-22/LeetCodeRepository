@@ -13,6 +13,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
@@ -72,6 +73,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0046-permutations) |
@@ -179,6 +181,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0047-permutations-ii) |
 ## Dynamic Programming
 |  |

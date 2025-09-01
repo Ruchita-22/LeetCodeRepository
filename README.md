@@ -15,6 +15,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0908-middle-of-the-linked-list) |
@@ -81,6 +82,7 @@
 | [0063-unique-paths-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0377-combination-sum-iv) |
@@ -183,6 +185,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |

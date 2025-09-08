@@ -49,6 +49,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
 | [2388-replace-elements-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2388-replace-elements-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2915-count-of-interesting-subarrays) |
 ## Math
 |  |
@@ -111,6 +112,7 @@
 | [2388-replace-elements-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2388-replace-elements-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2714-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2915-count-of-interesting-subarrays) |
 | [3330-modify-the-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3330-modify-the-matrix) |
@@ -150,6 +152,7 @@
 | ------- |
 | [0342-power-of-four](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0342-power-of-four) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Rolling Hash
 |  |
@@ -177,6 +180,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2714-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2915-count-of-interesting-subarrays) |
 ## Queue

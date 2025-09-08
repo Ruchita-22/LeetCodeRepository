@@ -43,6 +43,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
@@ -63,6 +64,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0523-continuous-subarray-sum) |
 | [0679-24-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0867-new-21-game) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1448-maximum-69-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -101,6 +103,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0747-min-cost-climbing-stairs) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -123,6 +126,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-new-21-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0867-new-21-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -171,6 +175,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
 | [2714-left-and-right-sum-differences](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2714-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2915-count-of-interesting-subarrays) |

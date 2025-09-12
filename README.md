@@ -93,6 +93,7 @@
 | [0063-unique-paths-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0300-longest-increasing-subsequence) |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -269,6 +271,7 @@
 | [0063-unique-paths-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3330-modify-the-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3330-modify-the-matrix) |

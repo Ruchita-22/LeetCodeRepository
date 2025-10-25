@@ -17,6 +17,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0141-linked-list-cycle) |
+| [0295-find-median-from-data-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -229,6 +230,7 @@
 | [0047-permutations-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -314,6 +317,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -326,5 +330,6 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->

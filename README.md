@@ -48,6 +48,7 @@
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2044-number-of-wonderful-substrings) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2388-replace-elements-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2388-replace-elements-in-an-array) |
@@ -117,6 +118,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -145,6 +147,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -195,6 +198,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -204,6 +208,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2044-number-of-wonderful-substrings) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2714-left-and-right-sum-differences) |

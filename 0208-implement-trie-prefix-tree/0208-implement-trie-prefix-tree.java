@@ -14,9 +14,10 @@ class Trie {
         for(char c : word.toCharArray()) {
             if(curr.child[c-'a'] == null) {
                 curr.child[c-'a'] = new TrieNode();
-                curr.pf++;
+            
             }
             curr = curr.child[c-'a'];
+            curr.pf++;
         }
         curr.isEnd = 1;
         

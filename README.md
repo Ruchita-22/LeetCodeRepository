@@ -90,6 +90,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0039-combination-sum) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0208-implement-trie-prefix-tree) |
@@ -351,5 +353,6 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->

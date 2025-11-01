@@ -138,6 +138,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2915-count-of-interesting-subarrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3330-modify-the-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3330-modify-the-matrix) |
+| [3376-longest-common-suffix-queries](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3376-longest-common-suffix-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [2044-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2044-number-of-wonderful-substrings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3376-longest-common-suffix-queries](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3376-longest-common-suffix-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -362,6 +364,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0208-implement-trie-prefix-tree) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3376-longest-common-suffix-queries](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3376-longest-common-suffix-queries) |
 ## Counting
 |  |
 | ------- |

@@ -118,6 +118,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0679-24-game) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0735-asteroid-collision](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
@@ -242,6 +243,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -387,6 +389,7 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0735-asteroid-collision) |
 | [0886-score-of-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |

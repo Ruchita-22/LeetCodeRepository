@@ -27,6 +27,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0342-power-of-four) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -66,6 +67,7 @@
 | [0050-powx-n](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0342-power-of-four) |
@@ -169,6 +171,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0224-basic-calculator) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0474-ones-and-zeroes) |
@@ -389,6 +392,7 @@
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0224-basic-calculator) |
 | [0735-asteroid-collision](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0735-asteroid-collision) |
 | [0886-score-of-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0957-minimum-add-to-make-parentheses-valid) |

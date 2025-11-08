@@ -141,6 +141,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2714-left-and-right-sum-differences) |
+| [2846-robot-collisions](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2846-robot-collisions) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2915-count-of-interesting-subarrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3330-modify-the-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3330-modify-the-matrix) |
@@ -252,6 +253,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2388-replace-elements-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2388-replace-elements-in-an-array) |
+| [2846-robot-collisions](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2846-robot-collisions) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
@@ -271,6 +273,7 @@
 | [0075-sort-colors](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0295-find-median-from-data-stream) |
+| [2846-robot-collisions](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -401,4 +404,5 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2846-robot-collisions](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->

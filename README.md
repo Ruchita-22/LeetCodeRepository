@@ -109,6 +109,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0240-search-a-2d-matrix-ii) |
@@ -400,6 +401,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0726-number-of-atoms) |
@@ -415,5 +417,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

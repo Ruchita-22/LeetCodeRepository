@@ -45,6 +45,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
@@ -115,6 +116,7 @@
 | [0377-combination-sum-iv](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0377-combination-sum-iv) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0474-ones-and-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0643-maximum-average-subarray-i) |
@@ -399,6 +401,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0224-basic-calculator) |
+| [0496-next-greater-element-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0735-asteroid-collision) |
 | [0886-score-of-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0886-score-of-parentheses) |
@@ -409,4 +412,8 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2846-robot-collisions](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2846-robot-collisions) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

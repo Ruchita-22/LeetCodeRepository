@@ -178,6 +178,7 @@
 | [0091-decode-ways](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0224-basic-calculator) |
+| [0402-remove-k-digits](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0474-ones-and-zeroes) |
@@ -313,6 +314,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1448-maximum-69-number) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -409,6 +411,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0224-basic-calculator) |
+| [0402-remove-k-digits](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0735-asteroid-collision) |
@@ -426,6 +429,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->

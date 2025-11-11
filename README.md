@@ -113,6 +113,7 @@
 | [0075-sort-colors](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0085-maximal-rectangle) |
+| [0136-single-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0240-search-a-2d-matrix-ii) |
@@ -208,6 +209,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0342-power-of-four) |

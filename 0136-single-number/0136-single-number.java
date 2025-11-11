@@ -1,9 +1,7 @@
 class Solution {
-    public int singleNumber(int[] arr) {
-        int res = 0;
-        for(int e : arr)    res ^= e;
-        
-        return res;
-        
+    public int singleNumber(int[] nums) {
+        int ans = 0;
+        for(int n : nums) ans ^= n;
+        return ans;
     }
 }

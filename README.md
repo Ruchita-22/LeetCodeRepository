@@ -28,6 +28,7 @@
 | [0050-powx-n](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0342-power-of-four) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -70,6 +71,7 @@
 | [0062-unique-paths](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0342-power-of-four) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |

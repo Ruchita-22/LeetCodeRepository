@@ -212,6 +212,7 @@
 | [0231-power-of-two](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0461-hamming-distance](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0461-hamming-distance) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2044-number-of-wonderful-substrings) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2656-count-the-number-of-beautiful-subarrays) |

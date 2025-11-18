@@ -1,26 +1,19 @@
 class Solution {
     public int maxProfit(int[] prices, int fee) {
-        int dp[][]= new int[prices.length+1][2];
-       for(int t[] : dp){
-           Arrays.fill(t,-1);
-       }
-       return solve2(0,1,prices, fee, dp);
-        
+        int dp[][] = new int[prices.length+1][2+1];
+        for(int t[] : dp) {
+            Arrays.fill(t,-1);
+        } 
+        return solve(0, 1, prices, fee, dp);
     }
-    private static int solve2(int i, int buy, int prices[],int fee,int dp[][]){
-       if(i==prices.length )    return 0;
-       if(dp[i][buy] != -1) return dp[i][buy];
-       int profit = 0;
-       if(buy==1){
-           int buyKaro = -prices[i] + solve2(i+1,0,prices,fee,dp);
-           int skipKaro = solve2(i+1,1,prices,fee,dp);
-           profit = Math.max(buyKaro, skipKaro);
-       }
-       else{
-           int sellKaro = prices[i] - fee + solve2(i+1,1,prices,fee,dp);
-           int skipKaro = solve2(i+1,0,prices,fee,dp);
-           profit = Math.max(sellKaro, skipKaro);
-       }
-       return dp[i][buy] = profit;
-   }
+    private int solve(int n, int buy, int nums[], int fee, int dp[][]) {
+        if(n == nums.length)    return 0;
+        if(dp[n][buy] != -1)    return dp[n][buy];
+        if(buy == 1) { // buy or skip
+            return dp[n][buy] = Math.max(-nums[n] + solve(n+1, 0, nums, fee,dp), solve(n+1, 1, nums, fee, dp)); 
+
+        } else {    //sell or skip
+            return dp[n][buy] = Math.max(nums[n] - fee + solve(n+1, 1, nums, fee, dp), solve(n+1, 0, nums, fee, dp)); 
+        }
+    }
 }

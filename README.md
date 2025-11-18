@@ -81,6 +81,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0523-continuous-subarray-sum) |
 | [0679-24-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0867-new-21-game) |
+| [0956-number-of-music-playlists](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0956-number-of-music-playlists) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1448-maximum-69-number) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -336,6 +337,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0943-sum-of-subarray-minimums) |
+| [0956-number-of-music-playlists](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0956-number-of-music-playlists) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1087-longest-arithmetic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -390,6 +392,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0062-unique-paths) |
+| [0956-number-of-music-playlists](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0956-number-of-music-playlists) |
 ## Divide and Conquer
 |  |
 | ------- |

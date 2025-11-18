@@ -122,6 +122,7 @@
 | [0377-combination-sum-iv](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0377-combination-sum-iv) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0560-subarray-sum-equals-k) |
@@ -281,6 +282,7 @@
 | [0046-permutations](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0077-combinations) |
+| [0494-target-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0679-24-game) |
 ## Sorting
 |  |
@@ -305,6 +307,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0673-number-of-longest-increasing-subsequence) |

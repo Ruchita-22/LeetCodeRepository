@@ -1,30 +1,45 @@
 class Solution {
-    public List<List<Integer>> threeSum(int[] arr) {
-        List<List<Integer>> ans = new ArrayList<>();
-        Set<List<Integer>> set = new HashSet<>();
-        //edge case
-        if(arr.length < 3)  return ans;
+    public List<List<Integer>> threeSum(int[] nums) {
+        Arrays.sort(nums);
+        //print(nums);
+        List<List<Integer>> res = new ArrayList();
+        Set<List<Integer>> set = new HashSet();
 
-        Arrays.sort(arr);
-        for(int i = 0; i < arr.length-2; i++) {
-            int a = arr[i];
-            int j = i+1 , k = arr.length-1;
-            while(j < k){
-                int b = arr[j], c = arr[k];
-                if(b+c < -a)    j++;
-                else if(b+c > -a)   k--;
-                else {
-                    if(!set.contains(List.of(a,b,c))) {
-                        ans.add(List.of(a,b,c));
-                        set.add(List.of(a,b,c));
-                    }    
-                        
-                    j++; k--;
-                }
-            } 
+
+        for(int i = 0; i < nums.length-2; i++) {
+            
+            List<List<Integer>> resFor2Sum = solve(nums,-nums[i],i+1,nums.length-1);
+            if(resFor2Sum.size() > 0) {
+                for(List<Integer> temp : resFor2Sum) {
+                    temp.add(0, nums[i]);
+                    if(!set.contains(temp)) {
+                        res.add(new ArrayList(temp));
+                        set.add(new ArrayList(temp));
+                    }
+                } 
+            }    
         }
-        return ans;
 
-        
+        return res;
+
+    }
+    private List<List<Integer>> solve(int nums[],int target, int s, int e) {
+        List<List<Integer>> res = new ArrayList();
+        int i = s, j = e;
+        while(i < j) {
+            if(nums[i]+nums[j] < target) i++;
+            else if(nums[i]+nums[j] > target) j--;
+            else {
+                res.add(new ArrayList(List.of(nums[i],nums[j])));
+                i++; j--;
+            }
+        }
+        return res;
+    }
+    private void print(int[] nums) {
+        for(int num : nums) {
+            System.out.print(num+" ");
+        }
+        System.out.println();
     }
 }

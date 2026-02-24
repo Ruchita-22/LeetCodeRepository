@@ -21,6 +21,7 @@
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0908-middle-of-the-linked-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2938-separate-black-and-white-balls](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2938-separate-black-and-white-balls) |
 ## Recursion
 |  |
 | ------- |
@@ -220,6 +221,7 @@
 | [2044-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2044-number-of-wonderful-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2938-separate-black-and-white-balls](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2938-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3376-longest-common-suffix-queries) |
 ## Bit Manipulation
@@ -368,6 +370,7 @@
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2938-separate-black-and-white-balls](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Indexed Tree
 |  |
 | ------- |

@@ -6,8 +6,9 @@ class Solution {
         int sum = 0;
         for(int num : nums) {
             sum += num;
-            int sumMod = sum % k;
-            if(sumMod < 0) sumMod = sumMod + k;
+            // int sumMod = sum % k;
+            // if(sumMod < 0) sumMod = sumMod + k;
+            int sumMod = (sum % k + k) % k;
             if(map.containsKey(sumMod)) {
                 count += map.get(sumMod);
             }

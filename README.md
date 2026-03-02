@@ -153,6 +153,7 @@
 | [0792-binary-search](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0792-binary-search) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0943-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1087-longest-arithmetic-subsequence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
@@ -191,6 +192,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-new-21-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0867-new-21-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -269,6 +271,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1087-longest-arithmetic-subsequence) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -280,6 +283,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1590-make-sum-divisible-by-p) |

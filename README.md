@@ -64,6 +64,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2044-number-of-wonderful-substrings) |
+| [2080-range-frequency-queries](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2080-range-frequency-queries) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2388-replace-elements-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2388-replace-elements-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -171,6 +172,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2080-range-frequency-queries](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2080-range-frequency-queries) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -291,6 +293,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1087-longest-arithmetic-subsequence) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2080-range-frequency-queries](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2080-range-frequency-queries) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
 |  |
@@ -419,6 +422,7 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2080-range-frequency-queries](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2080-range-frequency-queries) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -473,6 +477,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0937-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0981-time-based-key-value-store) |
+| [2080-range-frequency-queries](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2080-range-frequency-queries) |
 ## Binary Search Tree
 |  |
 | ------- |

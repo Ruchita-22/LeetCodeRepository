@@ -172,6 +172,7 @@
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2388-replace-elements-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2388-replace-elements-in-an-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -283,6 +284,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1087-longest-arithmetic-subsequence) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -299,6 +301,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2044-number-of-wonderful-substrings) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2714-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2915-count-of-interesting-subarrays) |
@@ -338,6 +341,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0295-find-median-from-data-stream) |
 | [0726-number-of-atoms](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0726-number-of-atoms) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2846-robot-collisions](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
@@ -397,6 +401,7 @@
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2938-separate-black-and-white-balls](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Indexed Tree
 |  |

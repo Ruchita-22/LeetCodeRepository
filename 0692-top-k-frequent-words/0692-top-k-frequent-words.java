@@ -1,27 +1,29 @@
 class Solution {
     public List<String> topKFrequent(String[] words, int k) {
-        
-        HashMap<String , Integer> map = new HashMap<>();
-        
-        for(String s : words){
-            map.put(s, map.getOrDefault(s,0)+1);
+        Map<String, Integer> map = new HashMap();
+
+        for(String word : words) {
+            map.put(word, map.getOrDefault(word,0)+1);
         }
-        
-        PriorityQueue<String> pq = new PriorityQueue<>(k,(o1,o2)->
-            (int)map.get(o1)!=map.get(o2) ? map.get(o1)-map.get(o2): o2.compareTo(o1)
+        System.out.println(map);
+
+        PriorityQueue<String> pq = new PriorityQueue<>(
+            (a, b) -> {
+                int freq = Integer.compare(map.get(a), map.get(b)); // min-heap by freq
+                if (freq == 0) return b.compareTo(a);               // reverse lexicographic
+                return freq;
+            }
         );
-        
-        for(String s : map.keySet()){
-            pq.add(s);
-            while(pq.size()>k)
-                pq.poll();
+
+        for(String word : map.keySet()) {
+            pq.add(word);
+            if(pq.size() > k) pq.poll();
         }
+        System.out.println(pq);
+        List<String> res = new ArrayList();
+        while(pq.size() > 0) res.add(0,pq.poll());
         
+        return res;
         
-        List<String> list = new ArrayList();
-        while(pq.size()>0){
-            list.add(0,pq.poll());
-        }
-        return list;
     }
 }

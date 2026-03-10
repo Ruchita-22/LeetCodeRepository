@@ -10,36 +10,39 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        if(lists == null || lists.length == 0) return null; 
-        if(lists.length == 1)   return lists[0];
-        
-        ListNode head = lists[0];
-        for(int i = 1; i < lists.length; i++){
-            head = mergeTwoLists(head, lists[i]);
+        if(lists.length == 0 ) return null;
+        ListNode head1 = lists[0];
+        for(int i = 1; i < lists.length; i++) {
+            head1 = merge(head1,lists[i]);
         }
-        return head;
+        return head1;
+        
     }
-    public ListNode mergeTwoLists(ListNode head1, ListNode head2) {
-        if(head1 == null)   return head2;
-        if(head2 == null)   return head1;
-        
-        ListNode head = new ListNode(0);
-        ListNode l1 = head1, l2 = head2, curr = head;
-        
-        while(l1 != null && l2 != null) {
-            if(l1.val <= l2.val) {
-                curr.next = l1;
-                l1 = l1.next;
-            } else {
-                curr.next = l2;
-                l2 = l2.next;
-            }
-            curr = curr.next;
-            curr.next = null;
+    private ListNode merge(ListNode head1, ListNode head2) {
+        ListNode curr1 = head1, curr2 = head2, next1 = null, next2 = null;
+        ListNode dummy = new ListNode(0);
+        ListNode curr = dummy;
+        while(curr1 != null && curr2 != null) {
+            if(curr1.val <= curr2.val) {
+                next1 = curr1.next;
+                curr.next = curr1;
+                curr = curr.next;
+                curr.next = null;
+                curr1 = next1;
+            } else if(curr1.val > curr2.val) {
+                next2 = curr2.next;
+                curr.next = curr2;
+                curr = curr.next;
+                curr.next = null;
+                curr2 = next2;
+            }  
         }
-        if(l1 != null) curr.next = l1;
-        if(l2 != null) curr.next = l2;
-        
-        return head.next; 
+        if(curr1 != null) {
+            curr.next = curr1;
+        }
+         if(curr2 != null) {
+            curr.next = curr2;
+        }
+        return dummy.next;
     }
 }

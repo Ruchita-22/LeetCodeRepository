@@ -4,13 +4,14 @@ class Solution {
         Arrays.fill(dp,-1);
         return solve(n, dp);
     }
-    private static int solve(int n, int dp[]) {
-        if(n == 0)  return dp[n] = 0;
+    private int solve(int n, int dp[]) {
+        if(n < 1)   return 0;
+
         if(dp[n] != -1) return dp[n];
 
         int ans = n;
         for(int i = 1; i*i <= n; i++) {
-            ans = Math.min(ans, 1+ solve(n-i*i, dp));
+            ans = Math.min(ans, 1 + solve(n-i*i, dp));
         }
         return dp[n] = ans;
     }

@@ -1,23 +1,25 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-         int dp[][] = new int[coins.length+1][amount+1];
-        for(int t[] : dp) {
-            Arrays.fill(t,Integer.MAX_VALUE);
-        } 
-        int ans =  solve(coins.length-1, amount, coins,dp);
-        return ans == 10000000 ? -1 : ans;
-
-        
+          int dp[] = new int[amount+1];
+        Arrays.fill(dp,-1);
+        int ans = solve(coins, amount, dp);
+        return ans == Integer.MAX_VALUE ? -1 : ans;
     }
-   
-    private int solve(int n, int sum, int nums[], int dp[][]) {
-        if(sum == 0)    return 0;
-        if(n < 0)  return 10000000;
-        if(dp[n][sum] != Integer.MAX_VALUE)    return dp[n][sum];
 
-        if(nums[n] <= sum)  
-            return dp[n][sum] = Math.min(1+solve(n,sum-nums[n], nums, dp) , solve(n-1, sum, nums, dp));
-        else 
-            return dp[n][sum] = solve(n-1, sum, nums, dp);
+    private int solve(int[] coins, int amount, int dp[]) {
+        if(amount < 0)   return Integer.MAX_VALUE;
+        if(amount == 0)  return 0;
+
+        if(dp[amount] != -1) return dp[amount];
+
+        int ans = Integer.MAX_VALUE;
+        for(int i = 0; i < coins.length; i++) {
+            if(amount >= coins[i]) {
+                int res = solve(coins, amount-coins[i], dp);
+                if(res != Integer.MAX_VALUE)
+                    ans = Math.min(ans, 1 + res);
+            }
+        }
+        return dp[amount] = ans;
     }
 }

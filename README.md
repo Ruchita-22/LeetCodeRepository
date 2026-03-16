@@ -176,6 +176,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0943-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1004-max-consecutive-ones-iii) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1087-longest-arithmetic-subsequence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
@@ -417,6 +418,7 @@
 | [0867-new-21-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0943-sum-of-subarray-minimums) |
 | [0956-number-of-music-playlists](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0956-number-of-music-playlists) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1043-partition-array-for-maximum-sum) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1087-longest-arithmetic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |

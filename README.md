@@ -173,6 +173,7 @@
 | [0792-binary-search](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0943-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1004-max-consecutive-ones-iii) |
@@ -420,6 +421,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0867-new-21-game) |
+| [0931-minimum-falling-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0943-sum-of-subarray-minimums) |
 | [0956-number-of-music-playlists](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0956-number-of-music-playlists) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1043-partition-array-for-maximum-sum) |
@@ -476,6 +478,7 @@
 | [0085-maximal-rectangle](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0240-search-a-2d-matrix-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0931-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2684-maximum-number-of-moves-in-a-grid) |

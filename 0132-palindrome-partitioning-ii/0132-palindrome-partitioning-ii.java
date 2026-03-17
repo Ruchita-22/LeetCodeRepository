@@ -8,21 +8,21 @@ class Solution {
         return dp[i][j];
         
     }
-    public int solve(String s,int idx,int dp1[],int dp2[][])
+    public int solve(String s,int i,int dp1[],int dp2[][])
     {
-        if(idx==s.length())	return 0;
-        if(isPalindrome(s,idx,s.length()-1,dp2)==1)	return 0;
-        if(dp1[idx]!=-1)	return dp1[idx];
-        int ans=s.length()-idx;
-        for(int i=idx;i<s.length();i++)
+        if(i==s.length())	return 0;
+        if(isPalindrome(s,i,s.length()-1,dp2)==1)	return 0;
+        if(dp1[i]!=-1)	return dp1[i];
+        int ans=s.length()-i;
+        for(int k=i;k<s.length();k++)
         {
-            if(isPalindrome(s,idx,i,dp2)==1)
+            if(isPalindrome(s,i,k,dp2)==1)
             {
-                int tempAns=1+solve(s,i+1,dp1,dp2);
+                int tempAns=1+solve(s,k+1,dp1,dp2);
                 ans=Math.min(tempAns,ans);
             }
         }
-        return dp1[idx]=ans;
+        return dp1[i]=ans;
     }
     public int minCut(String s) {
 

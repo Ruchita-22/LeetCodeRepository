@@ -180,6 +180,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1087-longest-arithmetic-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
@@ -427,6 +428,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1043-partition-array-for-maximum-sum) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1087-longest-arithmetic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1250-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -479,6 +481,7 @@
 | [0174-dungeon-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2684-maximum-number-of-moves-in-a-grid) |

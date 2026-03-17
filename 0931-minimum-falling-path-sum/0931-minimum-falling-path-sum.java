@@ -1,46 +1,35 @@
-//https://www.youtube.com/watch?v=T0h30zOtCmM
 class Solution {
-    public int minFallingPathSum(int[][] A) {
-        int m = A.length;
-        int n = A[0].length;
+    public int minFallingPathSum(int[][] grid) {
+        int m = grid.length;
+        int n = grid[0].length;
 
-        if (m == 1 || n == 1) return A[0][0];
+        int dp[][] = new int[m+1][n+1];
+        for(int t[] : dp) Arrays.fill(t, Integer.MAX_VALUE);
 
-        int[][] dp = new int[m][n];
-        for (int[] row : dp) {
-            Arrays.fill(row, Integer.MAX_VALUE);
-        }
-        
         int ans = Integer.MAX_VALUE;
 
-        for (int i = 0; i < A.length; ++i) {
-            ans = Math.min(ans, minFallingPathSum(A, 0, i, dp));
+        for(int j = 0; j < n; j++) {
+            int tempAns = solve(0, j, grid, dp);
+            ans = Math.min(ans, tempAns);
         }
-
         return ans;
     }
+    
+    private int solve(int i, int j, int[][] grid, int dp[][]) {
+        if(i == grid.length-1 && j >= 0 && j < grid[0].length)    return grid[i][j];
+        if(!isValid(i,j, grid))  return Integer.MAX_VALUE;
 
-    private int minFallingPathSum(int[][] A, int row, int col, int[][] dp) {
-        int m = A.length;
-        int n = A[0].length;
-
-        if (dp[row][col] != Integer.MAX_VALUE) return dp[row][col];
-
-        if (row == m - 1)
-            return dp[row][col] = A[row][col];
-
-        int left = Integer.MAX_VALUE, right = Integer.MAX_VALUE;
-
-        if (col > 0)
-            left = minFallingPathSum(A, row + 1, col - 1, dp);
-
-        int straight = minFallingPathSum(A, row + 1, col, dp);
-
-        if (col < n - 1)
-            right = minFallingPathSum(A, row + 1, col + 1, dp);
-
-        dp[row][col] = Math.min(left, Math.min(straight, right)) + A[row][col];
-
-        return dp[row][col];
+        if(dp[i][j] != Integer.MAX_VALUE)  return dp[i][j];
+        
+        int path1 = j > 0 ? solve(i+1, j-1, grid, dp) : Integer.MAX_VALUE;
+        int path2 = solve(i+1, j, grid, dp);
+        int path3 = j < grid[0].length-1 ? solve(i+1, j+1, grid, dp) : Integer.MAX_VALUE;
+        return dp[i][j] = grid[i][j] + Math.min(path1, Math.min(path2, path3));
     }
+    private boolean isValid(int i, int j, int grid[][]) {
+        if(i < 0 || i >= grid.length  || j < 0 || j >= grid[0].length) return false;
+        return true;
+
+    }
+
 }

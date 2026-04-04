@@ -4,13 +4,13 @@ class Solution {
         int i = 0, ans = Integer.MIN_VALUE;
         for(int j = 0; j < s.length(); j++) {
             char cj = s.charAt(j);
-            if(set.contains(cj)) {
-                while(set.contains(cj)) {
-                    char ci = s.charAt(i);
-                    set.remove(ci);
-                    i++;
-                }
+
+            while(set.contains(cj)) {
+                char ci = s.charAt(i);
+                set.remove(ci);
+                i++;
             }
+
             set.add(cj);
             ans = Math.max(ans,set.size());
         }

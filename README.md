@@ -74,6 +74,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2845-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2845-count-of-interesting-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2915-count-of-interesting-subarrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
@@ -209,6 +210,7 @@
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2714-left-and-right-sum-differences](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2714-left-and-right-sum-differences) |
+| [2845-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2845-count-of-interesting-subarrays) |
 | [2846-robot-collisions](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2846-robot-collisions) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2915-count-of-interesting-subarrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -351,6 +353,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2714-left-and-right-sum-differences) |
+| [2845-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2845-count-of-interesting-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2915-count-of-interesting-subarrays) |
 ## Queue
 |  |

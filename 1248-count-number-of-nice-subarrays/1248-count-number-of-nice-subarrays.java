@@ -1,29 +1,25 @@
 class Solution {
-    public int numberOfSubarrays(int[] arr, int k) {
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]%2==0)
-                arr[i] = 0;
-            else 
-                arr[i] = 1;
+    public int numberOfSubarrays(int[] nums, int k) {
+        int arr[] = new int[nums.length];
+
+        for(int i = 0; i < nums.length; i++) {
+            arr[i] = nums[i] % 2 == 0 ? 0 : 1;
         }
-        int c = countSubArrayWithSumK(arr,k);
-        return c;
+        return solve(arr, k); 
     }
     
-    private static int countSubArrayWithSumK(int arr[], int k)
-    {
-       HashMap<Integer, Integer> map = new HashMap<>();        // sum freq
+    public int solve(int[] nums, int k) {
+        var map = new HashMap<Integer, Integer>();
         map.put(0,1);
-        
+
         int sum = 0, count = 0;
-        for(int e : arr){
-            sum += e;
-            int removeSum = sum - k;
-            if(map.containsKey(removeSum)){
-                count += map.get(removeSum);
+        for(int num : nums) {
+            sum += num;
+            if(map.containsKey(sum - k)) {
+                count += map.get(sum - k);
             }
             map.put(sum, map.getOrDefault(sum,0)+1);
         }
-        return count;  
+        return count;
     }
 }

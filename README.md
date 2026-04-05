@@ -70,6 +70,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2044-number-of-wonderful-substrings) |
 | [2080-range-frequency-queries](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2080-range-frequency-queries) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2388-replace-elements-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2388-replace-elements-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -201,6 +202,7 @@
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2388-replace-elements-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2388-replace-elements-in-an-array) |
@@ -239,6 +241,7 @@
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2626-count-the-number-of-good-subarrays) |

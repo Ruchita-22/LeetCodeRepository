@@ -1,26 +1,28 @@
 class Solution {
     public int minSubarray(int[] nums, int p) {
-        long totalSum = 0;
-        for(int num : nums) {
-            totalSum += num;
-        }
-        if(totalSum % p == 0) return 0;
-
-        int targetSum = (int) (totalSum % p + p) % p;
-        Map<Integer, Integer> map = new HashMap();
-        // sumMod, index
-        map.put(0, -1);
         long sum = 0;
-        int ans = Integer.MAX_VALUE;
+        for(int num : nums) {
+            sum += num;
+        }
+        if(sum % p == 0) return 0;
+
+        int k = (int)(sum % p + p) % p;
+
+        // we need to remove the smallest subarray whose sum = k
+
+        var map = new HashMap<Integer, Integer>();
+        map.put(0,-1);
+        sum = 0;
+        int len = nums.length;
         for(int j = 0; j < nums.length; j++) {
             sum += nums[j];
-            int sumMod =(int)(sum % p);
-            int prev = ((sumMod - targetSum) % p + p) % p;
-            if( map.containsKey(prev) ) {
-                ans = Math.min(ans, j-(map.get(prev)+1)+1);
+            int currMod = (int)((sum % p + p) % p);
+            int target = (currMod - k + p) % p;
+            if(map.containsKey(target)) {
+                len = Math.min(len, j - map.get(target) );
             }
-            map.put(sumMod, j);
+            map.put(currMod, j);
         }
-        return ans==nums.length ? -1 : ans;
+        return len == nums.length ? -1 : len;
     }
 }

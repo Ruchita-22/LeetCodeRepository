@@ -1,22 +1,18 @@
 class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>(); // modulo, idx
+        if(nums.length < 2 || k == 0) return false;
+        var map = new HashMap<Integer, Integer>();
         map.put(0,-1);
-
-        int sum = 0;
-        for(int i = 0; i < nums.length; i++) {
-            sum += nums[i];
-            if(map.containsKey(sum % k)) {
-                int len = i - map.get(sum % k);
-                if(len >= 2)    
-                    return true;
-            } else {
-                map.put(sum % k, i);
+        int sum = 0, len = Integer.MAX_VALUE;
+        for(int j = 0; j < nums.length; j++) {
+            sum += nums[j];
+            int currSumMod = (sum % k + k) % k;
+            if(map.containsKey(currSumMod)) {
+                len = Math.min(len, j - map.get(currSumMod)+1);
+                if(j - map.get(currSumMod) >= 2) return true;
             }
-            //System.out.println(map);
+            map.putIfAbsent(currSumMod, j);
         }
         return false;
-        
     }
- 
 }

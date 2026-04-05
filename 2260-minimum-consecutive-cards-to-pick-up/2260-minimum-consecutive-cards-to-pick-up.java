@@ -1,25 +1,16 @@
 class Solution {
-    public int minimumCardPickup(int[] cards) {
-        if(cards == null || cards.length == 0)   return -1;
-        
-        int i = 0,  j = 0, ws = Integer.MAX_VALUE;
-        Set<Integer> set = new HashSet();
-        
-        while(j < cards.length) {
-            
-            if(!set.contains(cards[j])) {
-                set.add(cards[j]); 
-                j++;
-            } else {
-               // ws = Math.min(ws, j-i+1);
-                while(set.contains(cards[j])) {
-                    set.remove(cards[i]); 
-                    i++;
-                }
-                ws = Math.min(ws, j-i+2);
-            }
-            
+    public int minimumCardPickup(int[] nums) {
+
+        var map = new HashMap<Integer, Integer>();
+        //map.put(0, -1);
+        int i = 0, ans = Integer.MAX_VALUE;
+
+        for(int j = 0 ; j < nums.length; j++) {
+            if(map.containsKey(nums[j])) {
+                ans = Math.min(ans, j-map.get(nums[j])+1);
+            } 
+            map.put(nums[j], j); 
         }
-         return set.size() == cards.length ? -1 : ws;             
+        return ans == Integer.MAX_VALUE || ans == nums.length-1 ? -1 : ans;
     }
 }

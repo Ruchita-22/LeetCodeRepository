@@ -129,6 +129,7 @@
 | [0046-permutations](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0073-set-matrix-zeroes) |

@@ -10,29 +10,28 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        if(head == null || head.next == null || k < 2 || !hasSufficientNode(head,k))  return head;
+        if(head == null || head.next == null || k < 2 || !hasSufficient(head, k))   return head;
 
-        ListNode curr = head, prev = null, np = null;
-        int temp = k;
-        while( curr != null && temp > 0) {
-            np = curr.next;
+        ListNode curr = head, prev = null;
+        int count = k;
+        while(curr != null && count > 0) {
+            ListNode np = curr.next;
             curr.next = prev;
             prev = curr;
             curr = np;
-            temp--;
+            count--;
         }
         head.next = reverseKGroup(curr, k);
         return prev;
-
     }
-    private static boolean hasSufficientNode(ListNode head, int k) {
-        int count = 0;
+    private boolean hasSufficient(ListNode head, int k) {
         ListNode curr = head;
+        int len = 0;
         while(curr != null) {
-            count++;
+            len++;
             curr = curr.next;
-            if(count >= k)  return true;
+            if(len == k)    return true;
         }
-        return false; 
+        return false;
     }
 }

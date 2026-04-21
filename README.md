@@ -10,6 +10,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0206-reverse-linked-list) |
@@ -58,6 +59,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0347-top-k-frequent-elements) |
@@ -559,6 +561,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -634,4 +637,8 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0148-sort-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

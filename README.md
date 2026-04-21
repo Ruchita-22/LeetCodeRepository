@@ -16,6 +16,7 @@
 | [0382-linked-list-random-node](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0908-middle-of-the-linked-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2938-separate-black-and-white-balls](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2938-separate-black-and-white-balls) |
 ## Recursion
 |  |

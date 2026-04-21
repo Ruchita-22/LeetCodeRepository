@@ -1,8 +1,6 @@
 class Node {
-		Node prev;
-		Node next;
-		int key;
-		int value;
+		Node prev, next;
+		int key, value;
 
 		public Node(int key, int value) {
 			this.key = key;
@@ -14,6 +12,7 @@ class LRUCache {
 	Node tail = new Node(0, 0);
 	Map<Integer, Node> map = new HashMap<>();
 	int capacity;
+    
     public LRUCache(int capacity) {
         this.capacity = capacity;
 		head.next = tail;

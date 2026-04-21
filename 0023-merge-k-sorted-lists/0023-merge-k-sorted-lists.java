@@ -10,39 +10,39 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        if(lists.length == 0 ) return null;
-        ListNode head1 = lists[0];
-        for(int i = 1; i < lists.length; i++) {
-            head1 = merge(head1,lists[i]);
+        if(lists.length == 0)   return null;
+        ListNode list1 = lists[0];
+
+        for(int i = 1;  i < lists.length; i++) {
+            ListNode list2 = lists[i];
+            list1 = mergeTwoLists(list1, list2);
         }
-        return head1;
-        
+        return list1;
     }
-    private ListNode merge(ListNode head1, ListNode head2) {
-        ListNode curr1 = head1, curr2 = head2, next1 = null, next2 = null;
-        ListNode dummy = new ListNode(0);
-        ListNode curr = dummy;
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        
+        ListNode dummyHead = new ListNode(-1);
+        ListNode curr1 = list1, curr2 = list2, curr = dummyHead;
+
         while(curr1 != null && curr2 != null) {
             if(curr1.val <= curr2.val) {
-                next1 = curr1.next;
                 curr.next = curr1;
+                curr1 = curr1.next;
                 curr = curr.next;
                 curr.next = null;
-                curr1 = next1;
-            } else if(curr1.val > curr2.val) {
-                next2 = curr2.next;
+            } else {
                 curr.next = curr2;
+                curr2 = curr2.next;
                 curr = curr.next;
                 curr.next = null;
-                curr2 = next2;
-            }  
+            }
         }
         if(curr1 != null) {
             curr.next = curr1;
         }
-         if(curr2 != null) {
+        if(curr2 != null) {
             curr.next = curr2;
         }
-        return dummy.next;
+        return dummyHead.next;
     }
 }

@@ -10,6 +10,7 @@
 | [0141-linked-list-cycle](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0206-reverse-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0382-linked-list-random-node) |
+| [0876-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@
 | [0189-rotate-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0908-middle-of-the-linked-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2938-separate-black-and-white-balls](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2938-separate-black-and-white-balls) |

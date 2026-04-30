@@ -10,9 +10,9 @@ class Solution {
     }
 
     private boolean solve(int i, int j, String s1, String s2, int dp[][]) {
-        if(i < 0 && j < 0)  return true;
-        if(i >= 0 && j < 0) return false;
-        if(i < 0 && j >= 0) {
+        if(i < 0 && j < 0)  return true;    // both exhausted
+        if(j < 0) return false;     // pattern exhaused but str left
+        if(i < 0 ) {                    
             for(int idx = 0; idx <= j; idx++) {
                 if(s2.charAt(idx) != '*') return false;
             }

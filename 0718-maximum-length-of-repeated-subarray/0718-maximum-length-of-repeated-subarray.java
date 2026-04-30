@@ -1,31 +1,33 @@
 class Solution {
+    public int findLength(int[] nums1, int[] nums2) {
+        return longestCommonSubstring(nums1, nums2);
+    }
     int ans = 0;
+    public int longestCommonSubstring(int[] nums1, int[] nums2) {
+        int m = nums1.length, n = nums2.length;
+        
+        int dp[][] = new int[m+1][n+1];
 
-    public int findLength(int[] arr1, int[] arr2) {
+        for(int t[] : dp)   Arrays.fill(t, -1);
+        
         ans = 0;
-        int dp[][] = new int[arr1.length+1][arr2.length+1];
-        for (int[] t : dp) Arrays.fill(t, -1);
-
-        solve(arr1, arr2, arr1.length, arr2.length, dp);
+        solve(m-1, n-1, nums1, nums2, dp);
         return ans;
     }
+    private int solve(int i, int j, int[] nums1, int[] nums2, int dp[][]) {
+        if(i < 0 || j < 0)  return 0;
 
-    private int solve(int arr1[], int arr2[], int m, int n, int dp[][]) {
-        if (m == 0 || n == 0) return 0;
-
-        if (dp[m][n] != -1) return dp[m][n];
-
-        if (arr1[m-1] == arr2[n-1]) {
-            dp[m][n] = 1 + solve(arr1, arr2, m-1, n-1, dp);
-            ans = Math.max(ans, dp[m][n]);
-        } else {
-            dp[m][n] = 0; 
-        }
-
+        if(dp[i][j] != -1)  return dp[i][j];
         
-        solve(arr1, arr2, m-1, n, dp);
-        solve(arr1, arr2, m, n-1, dp);
-
-        return dp[m][n];
+        if(nums1[i] == nums2[j]) {
+            dp[i][j] = 1 + solve(i-1, j-1, nums1, nums2, dp);
+            ans = Math.max(ans, dp[i][j]);
+        } else {
+            dp[i][j] = 0;
+        }  
+        solve(i-1, j, nums1, nums2, dp);
+        solve(i, j-1, nums1, nums2, dp);  
+        
+        return dp[i][j];
     }
 }

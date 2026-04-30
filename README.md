@@ -40,6 +40,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0044-wildcard-matching) |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0044-wildcard-matching) |
@@ -430,6 +432,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0063-unique-paths-ii) |

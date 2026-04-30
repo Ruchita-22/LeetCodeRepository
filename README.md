@@ -42,6 +42,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0224-basic-calculator) |
@@ -269,6 +270,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0151-reverse-words-in-a-string) |
@@ -428,6 +430,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0064-minimum-path-sum) |
@@ -483,6 +486,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |

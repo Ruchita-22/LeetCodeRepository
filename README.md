@@ -121,6 +121,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1448-maximum-69-number) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -481,6 +482,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Memoization
 |  |

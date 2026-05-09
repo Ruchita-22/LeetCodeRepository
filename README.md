@@ -290,6 +290,7 @@
 | [0886-score-of-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0981-time-based-key-value-store) |
+| [1092-shortest-common-supersequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -470,6 +471,7 @@
 | [0956-number-of-music-playlists](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0956-number-of-music-playlists) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1043-partition-array-for-maximum-sum) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1087-longest-arithmetic-subsequence) |
+| [1092-shortest-common-supersequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1250-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1277-count-square-submatrices-with-all-ones) |

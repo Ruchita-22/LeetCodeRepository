@@ -59,6 +59,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0146-lru-cache) |
@@ -251,6 +252,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0424-longest-repeating-character-replacement) |
@@ -282,6 +284,7 @@
 | [0014-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0044-wildcard-matching) |
+| [0076-minimum-window-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0151-reverse-words-in-a-string) |

@@ -91,6 +91,7 @@
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2388-replace-elements-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2388-replace-elements-in-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -230,6 +231,7 @@
 | [2388-replace-elements-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2388-replace-elements-in-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2594-minimum-time-to-repair-cars) |
@@ -265,6 +267,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2626-count-the-number-of-good-subarrays) |
 ## String

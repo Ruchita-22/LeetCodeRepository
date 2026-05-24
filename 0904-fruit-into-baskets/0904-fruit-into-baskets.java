@@ -17,8 +17,8 @@ class Solution {
             len = Math.max(len,j-i+1);             
                 
         }
-        if(map.size()<2)
-            return map.get(fruits[i]);
+        // if(map.size()<2)
+        //     return map.get(fruits[i]);
         return len;
     }
 }

@@ -4,28 +4,30 @@ class Solution {
 
         int fs1[] = new int[26];
         int fs2[] = new int[26];
-        
-        for(char c : s1.toCharArray()) fs1[c-'a']++;
 
-        int i = 0, j = 0;
-        for(j = 0; j < s1.length(); j++) { 
-            char cj = s2.charAt(j);
-            fs2[cj-'a']++;
+        for(char c : s1.toCharArray()) {
+            fs1[c-'a']++;
         }
-        if(Arrays.equals(fs1,fs2))  return true;
 
-        while(j < s2.length()) {
-            char ci = s2.charAt(i);
-            fs2[ci-'a']--;
+        int i = 0, k = s1.length();
+        String s = s2;
 
-            char cj = s2.charAt(j);
+        for(int j = 0; j < s.length(); j++) {
+            //add nums[i]
+            char cj = s.charAt(j);
             fs2[cj-'a']++;
+            
+            if((j-i+1) == k) {
+                // calculation ans
+                if(Arrays.equals(fs1,fs2))   return true;
 
-            if(Arrays.equals(fs1,fs2))  return true;
-
-            i++; j++;
+                // remove nums[i]
+                char ci = s.charAt(i);
+                fs2[ci-'a']--;
+                i++;
+            }
         }
         return false;
-        
+
     }
 }

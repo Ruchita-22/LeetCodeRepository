@@ -90,6 +90,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1915-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1915-number-of-wonderful-substrings) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2044-number-of-wonderful-substrings) |
 | [2080-range-frequency-queries](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2080-range-frequency-queries) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -321,6 +322,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1915-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1915-number-of-wonderful-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2044-number-of-wonderful-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -339,6 +341,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0461-hamming-distance) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1915-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1915-number-of-wonderful-substrings) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2044-number-of-wonderful-substrings) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -402,6 +405,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1915-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1915-number-of-wonderful-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2044-number-of-wonderful-substrings) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2389-longest-subsequence-with-limited-sum) |

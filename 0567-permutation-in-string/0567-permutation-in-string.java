@@ -1,16 +1,15 @@
 class Solution {
-    public boolean checkInclusion(String s1, String s2) {
-        if(s2.length() < s1.length())   return false;
+    public boolean checkInclusion(String p, String s) {
+        if(s.length() < p.length())   return false;
 
         int fs1[] = new int[26];
         int fs2[] = new int[26];
 
-        for(char c : s1.toCharArray()) {
+        for(char c : p.toCharArray()) {
             fs1[c-'a']++;
         }
 
-        int i = 0, k = s1.length();
-        String s = s2;
+        int i = 0, k = p.length();
 
         for(int j = 0; j < s.length(); j++) {
             //add nums[i]

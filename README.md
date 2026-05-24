@@ -85,6 +85,7 @@
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -219,6 +220,7 @@
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -268,6 +270,7 @@
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -371,6 +374,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1087-longest-arithmetic-subsequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -392,6 +396,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2024-maximize-the-confusion-of-an-exam) |

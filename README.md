@@ -33,6 +33,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0908-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0948-bag-of-tokens) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -209,6 +210,7 @@
 | [0792-binary-search](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0943-sum-of-subarray-minimums) |
@@ -455,6 +457,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0726-number-of-atoms) |
+| [0881-boats-to-save-people](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0948-bag-of-tokens) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -527,6 +530,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0881-boats-to-save-people](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0948-bag-of-tokens) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1448-maximum-69-number) |

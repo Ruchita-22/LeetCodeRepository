@@ -232,6 +232,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -544,6 +545,7 @@
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2310-minimum-operations-to-halve-array-sum) |

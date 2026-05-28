@@ -103,6 +103,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2845-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2845-count-of-interesting-subarrays) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2915-count-of-interesting-subarrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
@@ -256,6 +257,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2714-left-and-right-sum-differences) |
 | [2845-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2845-count-of-interesting-subarrays) |
 | [2846-robot-collisions](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2846-robot-collisions) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2915-count-of-interesting-subarrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3330-modify-the-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/3330-modify-the-matrix) |
@@ -550,6 +552,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2938-separate-black-and-white-balls](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Indexed Tree
 |  |
@@ -658,6 +661,7 @@
 | [0692-top-k-frequent-words](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0692-top-k-frequent-words) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Stack
 |  |
 | ------- |

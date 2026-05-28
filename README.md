@@ -227,6 +227,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1694-make-sum-divisible-by-p) |
@@ -323,6 +324,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -514,6 +516,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Memoization
@@ -539,6 +542,7 @@
 | [1328-break-a-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1328-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |

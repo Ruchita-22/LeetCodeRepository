@@ -1,19 +1,17 @@
 class Solution {
-    public int minOperations(int[] arr) {
-        Map<Integer, Integer> map = new HashMap();
-        for(int e : arr){
-            map.put(e, map.getOrDefault(e,0)+1);
+    public int minOperations(int[] nums) {
+        var map = new HashMap<Integer, Integer>();
+        
+        for(int num : nums) {
+            map.put(num, map.getOrDefault(num,0)+1);
         }
+        System.out.println(map);
         int op = 0;
-       
-        for(int val : map.values()) {
-           if(val == 1) return -1;
-           op += Math.ceil((double)val/3);
+        for( int key : map.keySet()) {
+            int freq = map.get(key);
+            if(freq == 1) return -1;
+            op += Math.ceil((double)freq/3);
         }
-        return op;
-    }
+        return op;   
+    }   
 }
-
-/*
-*Only positive numbers
-length cant be 0  */

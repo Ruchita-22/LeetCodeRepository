@@ -34,6 +34,7 @@
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0908-middle-of-the-linked-list) |
+| [0948-bag-of-tokens](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0948-bag-of-tokens) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2938-separate-black-and-white-balls](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2938-separate-black-and-white-balls) |
@@ -211,6 +212,7 @@
 | [0904-fruit-into-baskets](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0943-sum-of-subarray-minimums) |
+| [0948-bag-of-tokens](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1004-max-consecutive-ones-iii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1043-partition-array-for-maximum-sum) |
@@ -453,6 +455,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0726-number-of-atoms) |
+| [0948-bag-of-tokens](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0948-bag-of-tokens) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -524,6 +527,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0948-bag-of-tokens](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0948-bag-of-tokens) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |

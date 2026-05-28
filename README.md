@@ -83,6 +83,7 @@
 | [0981-time-based-key-value-store](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0981-time-based-key-value-store) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1087-longest-arithmetic-subsequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -225,6 +226,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1087-longest-arithmetic-subsequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
@@ -469,6 +471,7 @@
 | [0726-number-of-atoms](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0726-number-of-atoms) |
 | [0881-boats-to-save-people](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0948-bag-of-tokens) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -546,6 +549,7 @@
 | [0948-bag-of-tokens](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0948-bag-of-tokens) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0991-broken-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0991-broken-calculator) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1328-break-a-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1328-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |

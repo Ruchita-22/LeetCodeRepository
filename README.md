@@ -318,6 +318,7 @@
 | [1250-longest-common-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1328-break-a-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1328-break-a-palindrome) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -533,6 +534,7 @@
 | [0881-boats-to-save-people](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0948-bag-of-tokens) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1328-break-a-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1328-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |

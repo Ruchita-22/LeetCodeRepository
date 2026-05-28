@@ -32,6 +32,7 @@
 | [0189-rotate-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0908-middle-of-the-linked-list) |
@@ -78,6 +79,7 @@
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0726-number-of-atoms) |
+| [0763-partition-labels](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -322,6 +324,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0726-number-of-atoms) |
+| [0763-partition-labels](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0763-partition-labels) |
 | [0886-score-of-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0981-time-based-key-value-store) |
@@ -548,6 +551,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0948-bag-of-tokens) |

@@ -89,6 +89,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1370-count-number-of-nice-subarrays) |
+| [1400-construct-k-palindrome-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1400-construct-k-palindrome-strings) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1590-make-sum-divisible-by-p) |
@@ -336,6 +337,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1328-break-a-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1328-break-a-palindrome) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1400-construct-k-palindrome-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1400-construct-k-palindrome-strings) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -561,6 +563,7 @@
 | [0991-broken-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0991-broken-calculator) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1328-break-a-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1328-break-a-palindrome) |
+| [1400-construct-k-palindrome-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1400-construct-k-palindrome-strings) |
 | [1448-maximum-69-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -680,6 +683,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0692-top-k-frequent-words) |
+| [1400-construct-k-palindrome-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1400-construct-k-palindrome-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2494-sum-of-prefix-scores-of-strings) |

@@ -341,6 +341,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1400-construct-k-palindrome-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1400-construct-k-palindrome-strings) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -485,6 +486,7 @@
 | [0881-boats-to-save-people](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0948-bag-of-tokens) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -568,6 +570,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1328-break-a-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1328-break-a-palindrome) |
 | [1400-construct-k-palindrome-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1400-construct-k-palindrome-strings) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1448-maximum-69-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1503-reducing-dishes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1578-minimum-time-to-make-rope-colorful) |

@@ -344,6 +344,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1328-break-a-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1328-break-a-palindrome) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1392-longest-happy-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1392-longest-happy-prefix) |
 | [1400-construct-k-palindrome-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1400-construct-k-palindrome-strings) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -384,11 +385,13 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1392-longest-happy-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1392-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1392-longest-happy-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1392-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Binary Search
 |  |
@@ -757,4 +760,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0239-sliding-window-maximum) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->

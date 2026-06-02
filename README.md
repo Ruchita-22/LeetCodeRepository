@@ -23,6 +23,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0142-linked-list-cycle-ii) |
@@ -314,6 +315,7 @@
 | [0010-regular-expression-matching](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0091-decode-ways) |
@@ -767,6 +769,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1392-longest-happy-prefix) |

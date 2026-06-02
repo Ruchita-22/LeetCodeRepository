@@ -320,6 +320,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0402-remove-k-digits) |
@@ -385,12 +386,14 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1392-longest-happy-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1392-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1392-longest-happy-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1392-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -764,6 +767,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->

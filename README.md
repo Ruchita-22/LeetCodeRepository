@@ -71,6 +71,7 @@
 | [0146-lru-cache](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0347-top-k-frequent-elements) |
 | [0398-random-pick-index](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -324,6 +325,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0224-basic-calculator) |
+| [0290-word-pattern](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0424-longest-repeating-character-replacement) |

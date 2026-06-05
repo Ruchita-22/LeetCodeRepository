@@ -335,6 +335,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0583-delete-operation-for-two-strings) |
+| [0686-repeated-string-match](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0726-number-of-atoms) |
 | [0763-partition-labels](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0763-partition-labels) |
@@ -774,5 +775,6 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->

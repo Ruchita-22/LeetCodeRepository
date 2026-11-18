@@ -200,6 +200,7 @@
 | [0322-coin-change](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0474-ones-and-zeroes) |
@@ -415,6 +416,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0528-random-pick-with-weight](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0713-subarray-product-less-than-k) |
@@ -499,6 +501,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0726-number-of-atoms) |
 | [0767-reorganize-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0767-reorganize-string) |
@@ -631,6 +634,7 @@
 | [0174-dungeon-game](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -659,6 +663,7 @@
 | [0239-sliding-window-maximum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0767-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0789-kth-largest-element-in-a-stream) |

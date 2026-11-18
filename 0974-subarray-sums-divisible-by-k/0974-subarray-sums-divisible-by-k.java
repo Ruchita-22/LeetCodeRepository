@@ -1,12 +1,18 @@
 class Solution {
+
     public int subarraysDivByK(int[] nums, int k) {
+
         var map = new HashMap<Integer, Integer>();
         map.put(0,1);
-        int sum = 0, count = 0;
 
-        for(int j = 0; j < nums.length; j++) {
-            sum += nums[j];
-            int sumMod = (sum % k + k)%k;
+        int sum = 0;
+        int count = 0;
+        for(int num : nums) {
+            sum += num;
+
+            int sumMod = sum % k;
+            if(sumMod < 0) sumMod += k;
+            
             if(map.containsKey(sumMod)) {
                 count += map.get(sumMod);
             }

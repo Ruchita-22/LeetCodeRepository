@@ -778,4 +778,8 @@
 | [0459-repeated-substring-pattern](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/1392-longest-happy-prefix) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ruchita-22/LeetCodeRepository/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
